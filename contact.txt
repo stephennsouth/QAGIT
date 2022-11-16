@@ -1,1 +1,2 @@
 THIS IS THE FIRST LINE OF THE CONTACT FILE
+Making a change to contact file as per step 3
